@@ -5,7 +5,7 @@
  * Licensed under the MIT License
  * =========================================================================== */
 
-namespace Opis\Closure;
+namespace Guirong\PhpClosure;
 
 /**
  * Closure Serialize class
