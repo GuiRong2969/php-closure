@@ -65,7 +65,7 @@ composer require guirong/php-closure
 ```json
 {
     "require": {
-        "guirong/php-closure": "^3.5"
+        "guirong/php-closure": "^1.0.1"
     }
 }
 ```
